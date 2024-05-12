@@ -56,7 +56,7 @@ npm start
 
 This will open up the project on a browser on `localhost:3000`.
 
-## Test
+## Test 
 
 - Run the following command to run the test suite:
 
